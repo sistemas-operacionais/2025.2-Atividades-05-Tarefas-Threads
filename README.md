@@ -2,6 +2,9 @@
 
 Atividade avaliativa sobre threads em C para alunos iniciantes de Ciências da Computação.
 
+## Relatório da Atividade
+O relatório completo está disponível em [MEU_RELATORIO.md](./MEU_RELATORIO.md).
+
 ## 📋 Descrição da Atividade
 
 Esta atividade prática tem como objetivo demonstrar o comportamento de threads POSIX em C através de três cenários diferentes:

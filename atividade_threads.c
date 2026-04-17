@@ -17,7 +17,7 @@
 #include <math.h>
 #include <string.h>
 
-#define NUM_ITERACOES 1000000
+#define NUM_ITERACOES 5000000
 #define NUM_LINHAS_IO 10000
 #define NUM_ITERACOES_MISTA 100
 #define TAMANHO_BUFFER 1024
